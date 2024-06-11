@@ -40,10 +40,10 @@ class MyApp extends StatelessWidget {
               ),
               Wrap(
                 children: [
-                  buatKotak(Colors.greenAccent, 100, "Naufal AL Zarah J"),
-                  buatKotak(Colors.orangeAccent[400]!, 70, "Aurelia Dhea S"),
-                  buatKotak(Colors.greenAccent, 50, "Anugerah Bagus P"),
-                  buatKotak(Colors.orangeAccent[400]!, 90, "Adhtyia Pramudhita"),
+                  buatKotak(Colors.greenAccent, 100, "Aurelia Dhea S"),
+                  buatKotak(Colors.orangeAccent[400]!, 70, "Naufal AL Zarah J"),
+                  buatKotak(Colors.greenAccent, 50, "Satna Setyana"),
+                  buatKotak(Colors.orangeAccent[400]!, 90, "Yesa Yofanka"),
                   buatKotak(Colors.red[300]!, 110, "Stefanus Pandi"),
                   buatKotak(Colors.blue[300]!, 30, "Alif Irafan"),
                 ],
